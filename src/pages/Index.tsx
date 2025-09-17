@@ -418,7 +418,7 @@ const Index = () => {
                   Our AI chatbot can provide step-by-step visual guidance for creating bootable drives
                 </p>
                 <Badge className="bg-info/20 text-info border-info/30">
-                  💬 Try the chatbot in the bottom-left corner for instant help
+                  💬 Try the chatbot in the bottom-right corner for instant help
                 </Badge>
               </div>
             </CardContent>
